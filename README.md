@@ -10,8 +10,8 @@ I'm passionate about delivering user-friendly interfaces and driving organic tra
 
 - **Languages:** Java, Python, SQL, C, C++, HTML, PHP
 - **Libraries and Tools:** Pandas, Github, Git, VS Code, PyCharm, Bootstrap
-- ** Databases:** MySQL, Oracle, SQLite
-- 
+- **Databases:** MySQL, Oracle, SQLite
+
 ###
 
 <div align="center">
