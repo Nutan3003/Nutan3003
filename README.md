@@ -1,5 +1,17 @@
-<h2 align="left">Hi 👋! My name is Nutan Kate and I'm a Former Full Stack Developer intern from Pune, India.</h2>
+# Hi there! 👋 
+I'm Nutan Kate, an Experienced Full Stack Developer intern with proficiency in Java, Python, and Data Analytics. I'm skilled in frontend development using HTML, CSS, and Bootstrap, and adept at database management with Oracle and MySQL. Currently, I'm pursuing Electronics and Telecommunication Engineering (E&TC) at Pune Institute of Computer Technology.
 
+
+## 🚀 About Me
+
+I'm passionate about delivering user-friendly interfaces and driving organic traffic through SEO best practices. I believe in continuous learning and staying updated with the latest technologies in the field of software development.
+
+## 💻 Expertise
+
+- **Languages:** Java, Python, SQL, C, C++, HTML, PHP
+- **Libraries and Tools:** Pandas, Github, Git, VS Code, PyCharm, Bootstrap
+- ** Databases:** MySQL, Oracle, SQLite
+- 
 ###
 
 <div align="center">
