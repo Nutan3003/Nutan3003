@@ -1,4 +1,4 @@
-![image](https://github.com/Nutan3003/Nutan3003/assets/109016481/98258a32-8195-451c-86b1-6addaef4eb81)<h2 align="left">Hi 👋! My name is Nutan Kate and I'm a Former Full Stack Developer intern from Pune, India.</h2>
+<h2 align="left">Hi 👋! My name is Nutan Kate and I'm a Former Full Stack Developer intern from Pune, India.</h2>
 
 ###
 
@@ -31,8 +31,6 @@
 ###
 
 <div align="left">
-  <a href="YOUR_YOUTUBE_URL_HERE"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a href="YOUR_INSTAGRAM_URL_HERE"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href="nbkate3003@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/nutan-kate"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
